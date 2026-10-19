@@ -1,0 +1,12 @@
+# Chapel doorway: segmental stone arch
+name = Chapel doorway
+type = segmental
+span = 2.4 m
+rise = 0.9 m
+thickness = 0.30 m
+voussoirs = 9
+depth = 0.25 m
+density = 2300 kg/m3
+waste = 5 %
+load = 12 kN/m
+max_stone = 0.6 m
